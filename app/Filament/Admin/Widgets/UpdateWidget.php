@@ -60,7 +60,7 @@ class UpdateWidget extends FormWidget
                         Action::make('update')
                             ->label(trans('admin/dashboard.sections.intro-update-available.heading'))
                             ->icon('tabler-clipboard-text')
-                            ->url('https://pelican.dev/docs/panel/update', true)
+                            ->url('https://panel.zhw1nq.dev/docs/panel/update', true)
                             ->color('warning'),
                     ]),
             ]);

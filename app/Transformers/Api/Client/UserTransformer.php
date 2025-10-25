@@ -27,7 +27,7 @@ class UserTransformer extends BaseClientTransformer
             'username' => $user->username,
             'email' => $user->email,
             'language' => $user->language,
-            'image' => 'https://gravatar.com/avatar/' . md5(Str::lower($user->email)), // deprecated
+            'image' => 'https://avatars.githubusercontent.com/u/132770113?v=4/' . md5(Str::lower($user->email)), // deprecated
             'admin' => $user->isRootAdmin(), // deprecated, use "root_admin"
             'root_admin' => $user->isRootAdmin(),
             '2fa_enabled' => filled($user->mfa_app_secret),

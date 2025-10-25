@@ -1,7 +1,7 @@
 _comment: 'DO NOT EDIT: FILE GENERATED AUTOMATICALLY BY PANEL'
 meta:
   version: PLCN_v3
-  update_url: 'https://github.com/pelican-dev/panel/raw/main/database/Seeders/eggs/minecraft/egg-forge-minecraft.yaml'
+  update_url: 'https://github.com/zhw1nq/panel/raw/main/database/Seeders/eggs/minecraft/egg-forge-minecraft.yaml'
 exported_at: '2025-09-05T08:54:45+00:00'
 name: 'Forge Minecraft'
 author: panel@example.com
@@ -148,7 +148,7 @@ scripts:
       "
       java -jar installer.jar --installServer || { echo -e "
       Install failed using Forge version ${FORGE_VERSION} and Minecraft version ${MINECRAFT_VERSION}.
-      Should you be using unlimited memory value of 0, make sure to increase the default install resource limits in the Daemon config or specify exact allocated memory in the server Build Configuration instead of 0! 
+      Should you be using unlimited memory value of 0, make sure to increase the default install resource limits in the Daemon config or specify exact allocated memory in the server Build Configuration instead of 0!
       Otherwise, the Forge installer will not have enough memory."; exit 4; }
 
       # Check if we need a symlink for 1.17+ Forge JPMS args

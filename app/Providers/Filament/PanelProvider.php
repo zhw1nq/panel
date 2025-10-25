@@ -30,7 +30,7 @@ abstract class PanelProvider extends BasePanelProvider
         return $panel
             ->spa()
             ->databaseNotifications()
-            ->brandName(config('app.name', 'Pelican'))
+            ->brandName(config('app.name', 'zSystems'))
             ->brandLogo(config('app.logo'))
             ->brandLogoHeight('2rem')
             ->favicon(config('app.favicon', '/pelican.ico'))

@@ -173,7 +173,7 @@ class AppServiceProvider extends ServiceProvider
             return $user->isRootAdmin() ? true : null;
         });
 
-        AboutCommand::add('Pelican', [
+        AboutCommand::add('zSystems', [
             'Panel Version' => $versionService->currentPanelVersion(),
             'Latest Version' => $versionService->latestPanelVersion(),
             'Up-to-Date' => $versionService->isLatestPanel() ? '<fg=green;options=bold>Yes</>' : '<fg=red;options=bold>No</>',

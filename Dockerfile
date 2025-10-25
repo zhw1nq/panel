@@ -1,5 +1,5 @@
 # syntax=docker.io/docker/dockerfile:1.13-labs
-# Pelican Production Dockerfile
+# zSystems Production Dockerfile
 
 ##
 #  If you want to build this locally you want to run `docker build -f Dockerfile.dev`

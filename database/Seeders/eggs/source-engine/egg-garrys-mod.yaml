@@ -1,7 +1,7 @@
 _comment: 'DO NOT EDIT: FILE GENERATED AUTOMATICALLY BY PANEL'
 meta:
   version: PLCN_v3
-  update_url: 'https://github.com/pelican-dev/panel/raw/main/database/Seeders/eggs/source-engine/egg-garrys-mod.yaml'
+  update_url: 'https://github.com/zhw1nq/panel/raw/main/database/Seeders/eggs/source-engine/egg-garrys-mod.yaml'
 exported_at: '2025-09-05T08:54:21+00:00'
 name: 'Garrys Mod'
 author: panel@example.com
@@ -122,11 +122,11 @@ scripts:
       sv_maxrate		0
       gmod_physiterations	2
       net_splitpacket_maxrate	45000
-      decalfrequency		12 
+      decalfrequency		12
 
       // Execute Ban Files - Please do not edit
-      exec banned_ip.cfg 
-      exec banned_user.cfg 
+      exec banned_ip.cfg
+      exec banned_user.cfg
 
       // Add custom lines under here
       ' > server.cfg

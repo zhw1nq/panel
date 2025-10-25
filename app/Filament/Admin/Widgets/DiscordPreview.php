@@ -40,7 +40,7 @@ class DiscordPreview extends Widget
                 'link' => fn ($href, $child) => $href ? "<a href=\"$href\" target=\"_blank\" class=\"link\">$child</a>" : $child,
                 'content' => null,
                 'sender' => [
-                    'name' => 'Pelican',
+                    'name' => 'zSystems',
                     'avatar' => 'https://raw.githubusercontent.com/pelican-dev/panel/refs/heads/main/public/pelican.ico',
                 ],
                 'embeds' => [],
@@ -68,7 +68,7 @@ class DiscordPreview extends Widget
             'link' => fn ($href, $child) => $href ? sprintf('<a href="%s" target="_blank" class="link">%s</a>', $href, $child) : $child,
             'content' => data_get($payload, 'content'),
             'sender' => [
-                'name' => data_get($payload, 'username', 'Pelican'),
+                'name' => data_get($payload, 'username', 'zSystems'),
                 'avatar' => data_get($payload, 'avatar_url', 'https://raw.githubusercontent.com/pelican-dev/panel/refs/heads/main/public/pelican.ico'),
             ],
             'embeds' => $embeds,

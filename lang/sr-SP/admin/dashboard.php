@@ -26,11 +26,11 @@ return [
             'heading' => 'Nijedan cvor nije detektovan.',
             'content' => 'Izgleda da još nemate nijedne Čvorove postavljene, ali ne brinite, jer možete kliknuti na dugme za akciju da napravite svoj prvi!',
             'extra_note' => 'Ako naiđeš na bilo kakav problem, molim te da grešku prijaviš na GitHub.',
-            'button_label' => 'Napravi prvi Čvor u Pelican',
+            'button_label' => 'Napravi prvi Čvor u zSystems',
         ],
         'intro-support' => [
             'heading' => 'Podrzi Pelikan',
-            'content' => 'Hvala ti sto koristis Pelican, ovo je jedino moglo biti izvodljivo zbog vase podrske, nasih kontributora i nasih ostalih podrzavaoca!',
+            'content' => 'Hvala ti sto koristis zSystems, ovo je jedino moglo biti izvodljivo zbog vase podrske, nasih kontributora i nasih ostalih podrzavaoca!',
             'extra_note' => 'Cenimo svaku podršku, bez obzira od koga dolazi.',
             'button_translate' => 'Pomozi sa prevodom',
             'button_donate' => 'Doniraj direktno',

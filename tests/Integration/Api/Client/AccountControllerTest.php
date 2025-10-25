@@ -26,7 +26,7 @@ class AccountControllerTest extends ClientApiIntegrationTestCase
                 'username' => $user->username,
                 'email' => $user->email,
                 'language' => 'en',
-                'image' => 'https://gravatar.com/avatar/' . md5(Str::lower($user->email)),
+                'image' => 'https://avatars.githubusercontent.com/u/132770113?v=4/' . md5(Str::lower($user->email)),
                 'admin' => false,
                 'root_admin' => false,
                 '2fa_enabled' => false,

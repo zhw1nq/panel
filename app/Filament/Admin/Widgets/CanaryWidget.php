@@ -42,7 +42,7 @@ class CanaryWidget extends FormWidget
                         Action::make('issues')
                             ->label(trans('admin/dashboard.sections.intro-developers.button_issues'))
                             ->icon('tabler-brand-github')
-                            ->url('https://github.com/pelican-dev/panel/issues', true),
+                            ->url('https://github.com/zhw1nq/panel/issues', true),
                     ]),
             ]);
     }

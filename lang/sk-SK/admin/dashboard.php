@@ -1,7 +1,7 @@
 <?php
 
 return [
-    'heading' => 'Vitajte v paneli Pelican!',
+    'heading' => 'Vitajte v paneli zSystems!',
     'version' => 'Verzia: :version',
     'advanced' => 'Pokročilé',
     'server' => 'Server',
@@ -29,8 +29,8 @@ return [
             'button_label' => 'Vytvoriť prvý uzol',
         ],
         'intro-support' => [
-            'heading' => 'Podporiť Pelican',
-            'content' => 'Ďakujeme, že používate Pelican, toto sa dá dosiahnuť iba podporou vás, našich prispievateľov a ostatných našich podporovateľov!',
+            'heading' => 'Podporiť zSystems',
+            'content' => 'Ďakujeme, že používate zSystems, toto sa dá dosiahnuť iba podporou vás, našich prispievateľov a ostatných našich podporovateľov!',
             'extra_note' => 'Vážime si akúkoľvek podporu od kohokoľvek.',
             'button_translate' => 'Pomôžte s prekladom',
             'button_donate' => 'Darujte priamo',

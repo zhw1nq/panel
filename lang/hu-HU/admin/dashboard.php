@@ -29,7 +29,7 @@ return [
             'button_label' => 'Első csomópont létrehozása a Pelicanban',
         ],
         'intro-support' => [
-            'heading' => 'Pelican támogatása',
+            'heading' => 'zSystems támogatása',
             'content' => 'Köszönjük, hogy használja a Pelicant, ezt csak az Ön és a támogatóink segítségével tudtuk elérni!',
             'extra_note' => 'Nagyra értékelünk minden támogatást bárkitől.',
             'button_translate' => 'Segítség a fordításhoz',

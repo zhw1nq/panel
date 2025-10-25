@@ -1,5 +1,5 @@
 # syntax=docker.io/docker/dockerfile:1.13-labs
-# Pelican Development Dockerfile
+# zSystems Development Dockerfile
 
 FROM --platform=$TARGETOS/$TARGETARCH php:8.4-fpm-alpine AS base
 

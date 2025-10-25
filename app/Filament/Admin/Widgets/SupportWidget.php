@@ -36,7 +36,7 @@ class SupportWidget extends FormWidget
                         Action::make('donate')
                             ->label(trans('admin/dashboard.sections.intro-support.button_donate'))
                             ->icon('tabler-cash')
-                            ->url('https://pelican.dev/donate', true)
+                            ->url('https://panel.zhw1nq.dev/donate', true)
                             ->color('success'),
                     ]),
             ]);

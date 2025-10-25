@@ -29,7 +29,7 @@ return [
             'button_label' => 'Pelicanで最初のノードを作成',
         ],
         'intro-support' => [
-            'heading' => 'Pelican をサポート',
+            'heading' => 'zSystems をサポート',
             'content' => 'Pelicanをご利用いただき、ありがとうございます。これは、皆様、貢献者の皆様、そしてその他のサポーターの皆様のご支援のおかげで実現できたものです！',
             'extra_note' => 'どなたからのいかなるご支援も、心より感謝申し上げます。',
             'button_translate' => '翻訳に協力する',

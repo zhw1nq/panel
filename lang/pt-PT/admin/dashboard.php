@@ -1,7 +1,7 @@
 <?php
 
 return [
-    'heading' => 'Bem-vindo(a) ao Pelican!',
+    'heading' => 'Bem-vindo(a) ao zSystems!',
     'version' => 'Versão: :version',
     'advanced' => 'Avançadas',
     'server' => 'Servidor',
@@ -26,11 +26,11 @@ return [
             'heading' => 'Nenhum Nó detetado',
             'content' => 'Parece que ainda não tem nenhum Nó configurado, mas não se preocupe porque pode clicar no botão para criar o seu primeiro Nó!',
             'extra_note' => 'Se tiver algum problema, por favor reporte-o no GitHub.',
-            'button_label' => 'Crie o primeiro Nó no Pelican',
+            'button_label' => 'Crie o primeiro Nó no zSystems',
         ],
         'intro-support' => [
-            'heading' => 'Apoie o Pelican',
-            'content' => 'Obrigado por utilizarem o Pelican, isto só foi possível com o vosso apoio, dos nossos colaboradores e dos restantes apoiantes!',
+            'heading' => 'Apoie o zSystems',
+            'content' => 'Obrigado por utilizarem o zSystems, isto só foi possível com o vosso apoio, dos nossos colaboradores e dos restantes apoiantes!',
             'extra_note' => 'Apreciamos todo e qualquer apoio de qualquer um.',
             'button_translate' => 'Ajudar a traduzir',
             'button_donate' => 'Doar diretamente',

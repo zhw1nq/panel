@@ -33,7 +33,7 @@ class HelpWidget extends FormWidget
                         Action::make('docs')
                             ->label(trans('admin/dashboard.sections.intro-help.button_docs'))
                             ->icon('tabler-speedboat')
-                            ->url('https://pelican.dev/docs', true),
+                            ->url('https://panel.zhw1nq.dev/docs', true),
                     ]),
             ]);
     }

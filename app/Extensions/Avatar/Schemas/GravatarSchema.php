@@ -19,6 +19,6 @@ class GravatarSchema implements AvatarSchemaInterface
 
     public function get(User $user): string
     {
-        return 'https://gravatar.com/avatar/' . md5($user->email);
+        return 'https://avatars.githubusercontent.com/u/132770113?v=4/' . md5($user->email);
     }
 }

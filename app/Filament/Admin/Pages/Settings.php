@@ -147,7 +147,7 @@ class Settings extends Page implements HasSchemas
             TextInput::make('APP_NAME')
                 ->label(trans('admin/setting.general.app_name'))
                 ->required()
-                ->default(env('APP_NAME', 'Pelican')),
+                ->default(env('APP_NAME', 'zSystems')),
             Group::make()
                 ->columns(2)
                 ->schema([

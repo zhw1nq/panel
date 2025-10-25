@@ -1,7 +1,7 @@
 <?php
 
 return [
-    'heading' => 'Selamat datang di Pelican Panel!',
+    'heading' => 'Selamat datang di zSystems Panel!',
     'version' => 'Versi :version',
     'advanced' => 'Lanjutan',
     'server' => 'Server',
@@ -26,11 +26,11 @@ return [
             'heading' => 'Tidak ada Node terdeteksi',
             'content' => 'Anda belum mengkonfigurasi Node apapun, jangan khawatir karena anda bisa menekan tombol untuk membuat Node pertama anda!',
             'extra_note' => 'Jika terjadi error atau bermasalah, laporkan hal itu ke GitHub',
-            'button_label' => 'Membuat Node pertama di Pelican Panel.',
+            'button_label' => 'Membuat Node pertama di zSystems Panel.',
         ],
         'intro-support' => [
-            'heading' => 'Bantuan Pelican.',
-            'content' => 'Terima kasih telah menggunakan Pelican, ini bisa dicapai dengan dukungan Anda, kontribusi kami, dan pendukung lainnya!',
+            'heading' => 'Bantuan zSystems.',
+            'content' => 'Terima kasih telah menggunakan zSystems, ini bisa dicapai dengan dukungan Anda, kontribusi kami, dan pendukung lainnya!',
             'extra_note' => 'Kami mengapresiasi dukungan dari siapapun.',
             'button_translate' => 'Bantuan Penerjemah',
             'button_donate' => 'Donasikan',

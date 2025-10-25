@@ -20,7 +20,7 @@ return [
         ],
         'intro-no-update' => [
             'heading' => '您的面板是最新的',
-            'content' => '您正运行的 Pelican 版本为 :version。您的面板目前是最新的！',
+            'content' => '您正运行的 zSystems 版本为 :version。您的面板目前是最新的！',
         ],
         'intro-first-node' => [
             'heading' => '侦测不到任何节点',

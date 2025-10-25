@@ -29,7 +29,7 @@ return [
             'button_label' => 'Pelican에 첫 노드 만들기',
         ],
         'intro-support' => [
-            'heading' => 'Pelican 지원하기',
+            'heading' => 'zSystems 지원하기',
             'content' => 'Pelican을 사용해주셔서 감사합니다. 이는 여러분, 우리 기여자분들과 모든 지원자 분들의 응원 덕분에 가능했습니다!',
             'extra_note' => '여러분의 모든 응원과 지원에 진심으로 감사드립니다.',
             'button_translate' => '번역 참여하기',

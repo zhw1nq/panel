@@ -1,7 +1,7 @@
 <?php
 
 return [
-    'heading' => 'Vítejte v Pelican!',
+    'heading' => 'Vítejte v zSystems!',
     'version' => 'Verze: :version',
     'advanced' => 'Pokročilé',
     'server' => 'Server',
@@ -26,11 +26,11 @@ return [
             'heading' => 'Nebyly nalezeny žádné uzly',
             'content' => 'Vypadá to že nemáš žádné Nodes nastavené, ale kliknutím na tlačítko akce můžete vytvořit váš první!',
             'extra_note' => 'Pokud naleznete bugy nahlaste je na GitHub',
-            'button_label' => 'Vytvořte první Node v Pelican',
+            'button_label' => 'Vytvořte první Node v zSystems',
         ],
         'intro-support' => [
-            'heading' => 'Podpořte Pelican!',
-            'content' => 'Děkujeme za používání Pelican, toto je možné vytvářet jen díky vaší podpoře, přespěvatelům a dalším podporovatelům!',
+            'heading' => 'Podpořte zSystems!',
+            'content' => 'Děkujeme za používání zSystems, toto je možné vytvářet jen díky vaší podpoře, přespěvatelům a dalším podporovatelům!',
             'extra_note' => 'Vážíme si jaké koliv podpory od kohokoliv.',
             'button_translate' => 'Pomocte Přeložit',
             'button_donate' => 'Darovat přímo',

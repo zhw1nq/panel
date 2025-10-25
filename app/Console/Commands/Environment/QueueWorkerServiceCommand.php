@@ -48,11 +48,11 @@ After=redis-server.service' : '';
 
         $basePath = base_path();
 
-        $success = File::put($path, "# Pelican Queue File
+        $success = File::put($path, "# zSystems Queue File
 # ----------------------------------
 
 [Unit]
-Description=Pelican Queue Service$afterRedis
+Description=zSystems Queue Service$afterRedis
 
 [Service]
 User=$user
