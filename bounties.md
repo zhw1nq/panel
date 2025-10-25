@@ -1,6 +1,6 @@
 # [Bounties](https://github.com/zhw1nq/panel/issues?q=is%3Aopen+is%3Aissue+label%3A%22%F0%9F%92%B5+bounty%22)
 
-Get paid to improve zSystems!
+Get paid to improve zSystems! 
 
 ## Rules
 
